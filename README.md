@@ -68,6 +68,8 @@ After submitting the above details, perform Add, Edit, and Delete operations on 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/899373b9-23a6-4a53-861d-dafde7b35826" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7bc91084-0a70-40c3-a334-8a14de949091" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/14cda48e-f04c-483f-8336-2ca405082159" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/236b078c-ded7-4fb0-8507-49d8049421e4" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6f39cbb8-076c-4870-9fcb-211bad1a85e8" />
 
 ## Result
 
